@@ -10,4 +10,3 @@ Instruction To Run:
 2.Import TodoApp.sql file into Mysql(phpmyadmin).
 3.Open Terminal CD to the folder where all the downloaded files are and type cmd:- php artisan serve
 4.Open browser and browse http://localhost:8000/
-5.Try It.
